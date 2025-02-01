@@ -1,5 +1,3 @@
-# Passwords
-
 ## Level 0
     password:`
 
