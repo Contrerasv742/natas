@@ -1,12 +1,13 @@
----
-author: "Victor Perez Contreras"
-title: "Natas Passwords"
----
+# Natas Passwords
 
-# Purpose
+Solutions and progress log for the OverTheWire Natas CTF challenges.
 
-Intended to log history or solutions for natas over the wire CTF challenge
+## About
+- Started: January 28, 2025
+- Author: Victor Perez Contreras
 
-# History:
+## Purpose
+This repository tracks solutions and progress through the Natas wargame challenges from OverTheWire CTF.
 
-Began: 28 January 2025
+## Progress
+[Your progress updates would go here]
